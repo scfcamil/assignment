@@ -1,0 +1,4 @@
+EmployeeID,FirstName,LastName,BirthDate,Department,Salary,FullName
+E001,Alice,White,12/06/1990,Finance,55000,Alice White
+E002,Bob John,Brown,03/01/1988,IT,90000,Bob John Brown
+E003,Carol,Grey,15/07/1995,HR,47000,Carol Grey

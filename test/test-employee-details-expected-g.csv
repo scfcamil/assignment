@@ -1,0 +1,4 @@
+EmployeeID,Department,Salary,FullName,Age,SalaryBucket
+E001,Finance,55000,Alice White,32,C
+E002,IT,90000,Bob John Brown,35,C
+E003,HR,47000,Carol Grey,27,C
